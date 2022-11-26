@@ -1,0 +1,86 @@
+@keyframes movimiento-lateral {
+    from{
+        margin-left: -20%;
+    }
+    to{
+        margin-left: 120%;
+    }
+}
+.logo{
+    animation: movimiento-lateral 20s infinite;
+    width:40%;
+    height:auto;
+    margin-top:0;
+    margin-left:40%;
+    margin-right:0%;
+    margin-bottom: 0;
+}
+.flores{
+    width:20%;
+    height:auto;
+    margin-top:20;
+    margin-left:38%;
+    margin-right:0%;
+    margin-bottom: 0;
+}
+.DCAC{
+    width:20%;
+    height:auto;
+    margin-top:20;
+    margin-left:0%;
+    margin-right:0%;
+    margin-bottom: 0;
+}
+.flor1{
+    width:20%;
+    height:auto;
+    margin-top:20;
+    margin-left:38%;
+    margin-right:0%;
+    margin-bottom: 0;
+}
+nav{
+    font-size:40px;
+    font-family: arial;
+    margin-top: 50;
+    margin-left:39%;
+    margin-bottom: 0;
+}
+nav>a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size:200px;
+    font-family: arial;
+    margin-top: 0;
+    margin-left:40%;
+    margin-bottom: 0;
+}
+h3{
+    font-size:20px;
+    font-family: arial;
+    color: black;
+    margin-top: 30;
+    margin-left:39%;
+    margin-bottom: 0;
+}
+body{
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home{
+    background-color: white;
+}
+
+img{
+    width:18%;
+    height:auto;
+    margin-top:15;
+    margin-left:40%;
+    margin-right:0%;
+}
+img:hover{
+    border-color:rgb(252, 94, 37);
+}
